@@ -1,4 +1,5 @@
-const databaseName = 'node_token_auth';
+const databaseName = 'neapserver';
+
 
 module.exports = {
   development: {
